@@ -9,7 +9,7 @@ Predict the loan approval status (`Loan_Status`) based on applicant details such
 - **Target Variable:** `Loan_Status` (Y/N)
 - **Features:** Gender, Married, Education, ApplicantIncome, LoanAmount, Credit_History, etc.
 
-## ⚙Steps Performed:
+## Steps Performed:
 
 ### 1. Data Cleaning:
 - Handled missing values using mode (for categorical) and median (for numerical).
